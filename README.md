@@ -11,3 +11,10 @@
 <div align="center">
   <b>Distribution:</b> Arch (GNU/Linux)/ <b>Font:</b> Iosevka Term / <b>Hosted by:</b> Glorious ThinkPad
 </div>
+
+<div align="center">
+<h1> About </h1>
+</div>
+
+* [**Desktop setup**](https://ashpex.eu.org/2020/06/my-personal-setup-thinkpad/)
+* [**Contact**](https://ashpex.eu.org/contact/)
