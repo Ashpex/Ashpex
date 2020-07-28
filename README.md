@@ -1,5 +1,5 @@
 <div align="center">
-<h2> ~/ </h2>
+<h1> ~/ </h1>
 </div>
 
 <div align="center">
