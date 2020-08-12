@@ -19,4 +19,13 @@
 * [**Desktop setup**](https://ashpex.eu.org/2020/06/my-personal-setup-thinkpad/)
 * [**Contact**](https://ashpex.eu.org/contact/)
 
+**Languages and Tools:**  
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
+<code><img height="50" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/matlab_104289.png"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
+
 [![Ashpex's github stats](https://github-readme-stats.vercel.app/api?username=Ashpex)](https://github.com/Bakumon)
