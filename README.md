@@ -18,3 +18,5 @@
 
 * [**Desktop setup**](https://ashpex.eu.org/2020/06/my-personal-setup-thinkpad/)
 * [**Contact**](https://ashpex.eu.org/contact/)
+
+[![Ashpex's github stats](https://github-readme-stats.vercel.app/api?username=Ashpex)](https://github.com/Bakumon)
