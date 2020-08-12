@@ -23,6 +23,7 @@
 
 <code><img height="50" src="https://image.flaticon.com/icons/svg/546/546049.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/postmarketos/postmarketos-icon.svg"></code>
+<code><img height="50" src="https://seeklogo.com/images/A/archlinux-logo-1159446C2C-seeklogo.com.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
