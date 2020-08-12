@@ -24,8 +24,8 @@
 <code><img height="50" src="https://image.flaticon.com/icons/svg/546/546049.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2305/2305893.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2305/2305893.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/919/919837.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
