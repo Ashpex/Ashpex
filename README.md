@@ -25,6 +25,7 @@
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/postmarketos/postmarketos-icon.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon-Vim.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2305/2305893.svg"></code>
