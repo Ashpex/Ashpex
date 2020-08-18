@@ -15,6 +15,7 @@
 <div align="center">
 <h1> About </h1>
 </div>
+
 * [**About me**](https://ashpex.eu.org/about/)
 * [**Desktop setup**](https://ashpex.eu.org/2020/06/my-personal-setup-thinkpad/)
 * [**Contact**](https://ashpex.eu.org/contact/)
