@@ -36,6 +36,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashpex&layout=compact" alt="ashpex"/>
 
-[![Ashpex's github stats](https://github-readme-stats.vercel.app/api?username=ashpex&include_all_commits=true&show_icons=true)](https://github.com/Ashpex)
+[![Ashpex's github stats](https://github-readme-stats.vercel.app/api?username=ashpex&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/Ashpex)
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
