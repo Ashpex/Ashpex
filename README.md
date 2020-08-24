@@ -34,6 +34,8 @@
 <code><img height="50" src="https://image.flaticon.com/icons/svg/919/919837.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashpex&layout=compact&hide=html" alt="ashpex"/></p>
+
 [![Ashpex's github stats](https://github-readme-stats.vercel.app/api?username=ashpex&include_all_commits=true&show_icons=true)](https://github.com/Ashpex)
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
