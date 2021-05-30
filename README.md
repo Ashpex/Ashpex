@@ -35,7 +35,8 @@
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 
 
-[![Ashpex's github stats](https://github-readme-stats.vercel.app/api?username=ashpex&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/Ashpex)
+[![Ashpex's github stats](https://github-readme-stats.vercel.app/api?username=ashpex&include_all_commits=true&count_private=true&theme=dark&show_icons=true)](https://github.com/Ashpex)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashpex&theme=dark&hide_border=true)](https://github.com/Ashpex)
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
