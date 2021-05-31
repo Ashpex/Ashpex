@@ -34,6 +34,7 @@
 <code><img height="50" src="https://image.flaticon.com/icons/svg/919/919837.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 
+**GitHub's Stats:**
 
 [![Ashpex's github stats](https://github-readme-stats.vercel.app/api?username=ashpex&include_all_commits=true&count_private=true&theme=dark&show_icons=true)](https://github.com/Ashpex)
 
