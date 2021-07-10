@@ -7,8 +7,10 @@
   <img height="50" alt="archlinux-icon" src="https://www.logolynx.com/images/logolynx/91/914639a1180c179a71fee283128b01c5.png"/>
 </p>
 <p align="center">
+  <b>
   <a href="https://www.ashpex.eu.org">Website</a> •
   <a href="https://twitter.com/librenix">Twitter</a>
+  </b>
 </p>
 
 ---
