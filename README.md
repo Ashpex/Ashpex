@@ -31,7 +31,7 @@
 
 ## 💬 About me
 - Education: University of Science (Bachelor)
-- Name irl: Vy
+- Name irl: Vy Bui
 - i use Arch btw
 
 ## Further information
