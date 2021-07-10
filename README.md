@@ -1,19 +1,3 @@
-<div align="center">
-<h1> ~/ </h1>
-</div>
-
-<div align="center">
-<h3> You are, quite obviously, home. </h2>
-</div>
-
-<div align="center">
-<img src="https://ashpex.eu.org/images/2019-12_scrot.png" alt="setup" width="600"/>
-</div>
-
-<div align="center">
-  <b>Distribution:</b> Arch (GNU/Linux)/ <b>Font:</b> Iosevka Term / <b>Hosted by:</b> Glorious ThinkPad
-</div>
-
 ---
 
 <div align="center">
@@ -25,6 +9,25 @@
 </p>
 
 ---
+
+## 💻 Setup
+
+<div align="center">
+<h3> ~/ </h3>
+</div>
+
+<div align="center">
+<h4> You are, quite obviously, home. </h4>
+</div>
+
+<div align="center">
+<img src="https://ashpex.eu.org/images/2019-12_scrot.png" alt="setup" width="600"/>
+</div>
+
+<div align="center">
+  <b>Distribution:</b> Arch (GNU/Linux)/ <b>Font:</b> Iosevka Term / <b>Hosted by:</b> Glorious ThinkPad
+</div>
+
 
 ## 💬 About me
 - Education: University of Science (Bachelor)
@@ -40,6 +43,7 @@
 - IRC: `ashpex` on [libera](http://libera.chat/)
 - Matrix: [@ashpex:kde.org](https://matrix.to/#/@ashpex:kde.org)
 - Discord: `archbu#7313`
+
 
 ## ⚙️ Languages and Tools:
 
