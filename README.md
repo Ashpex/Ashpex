@@ -74,4 +74,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashpex&theme=dark&hide_border=true)](https://github.com/Ashpex)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/ashpex/ashpex/output/github-contribution-grid-snake.svg)
+
+  
 </div>
