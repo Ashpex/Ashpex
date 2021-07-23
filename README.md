@@ -47,7 +47,7 @@
 ## 📬 Get in Touch
 - IRC: `ashpex` on [libera](http://libera.chat/)
 - Matrix: [@ashpex:kde.org](https://matrix.to/#/@ashpex:kde.org)
-- Telegram: request
+- [Telegram](https://t.me/ashwm)
 
 ## ⚙️ Languages and Tools:
 
