@@ -16,7 +16,9 @@
 ---
 
 ## 💻 Setup
-
+<details>
+  <summary>Click to view my setup</summary>
+  
 <div align="center">
 <h3> ~/ </h3>
 </div>
@@ -32,6 +34,7 @@
 <div align="center">
   <b>Distribution:</b> Arch (GNU/Linux)/ <b>Font:</b> Iosevka Term / <b>Hosted by:</b> Glorious ThinkPad
 </div>
+</details>
 
 
 ## 💬 About me
