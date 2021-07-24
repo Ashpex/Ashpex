@@ -39,11 +39,6 @@
 - Name irl: Vy Bui
 - i use Arch btw
 
-## ☕ Further information
-* [**About me**](https://ashpex.eu.org/about/)
-* [**Desktop setup**](https://ashpex.eu.org/2020/06/my-personal-setup-thinkpad/)
-* [**Contact**](https://ashpex.eu.org/contact/)
-
 ## 📬 Get in Touch
 - IRC: `ashpex` on [libera](http://libera.chat/)
 - Matrix: [@ashpex:kde.org](https://matrix.to/#/@ashpex:kde.org)
