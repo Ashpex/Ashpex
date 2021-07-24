@@ -8,9 +8,7 @@
 </p>
 <p align="center">
   <b>
-  <a href="https://ashpex.eu.org">Website</a> •
-  <a href="https://twitter.com/librenix">Twitter</a>
-  </b>
+  <a href="https://ashpex.eu.org">Website</a>  </b>
 </p>
 
 ---
