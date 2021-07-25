@@ -42,10 +42,7 @@
 - 👀 Name irl: Vy Bui
 - 🌱 Currently learning React Native
 - 🔭 Working on Rasbperry Pi projects
-- ☕ Interests: 
-  -  🎾 watching tennis
-  -  ♟️ playing chess 
-  -  👩‍💻 programming
+- ☕ Interests:  🎾 watching tennis • ♟️ playing chess • 👩‍💻 programming
 - 🐧 i use Arch btw
 
 ## 📬 Get in Touch
