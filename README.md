@@ -53,6 +53,10 @@
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ashwm)
 - [![Threema](https://img.shields.io/badge/Threema-2e2e2e?style=for-the-badge&logo=threema&logoColor=white)](https://threema.id/XBU942ZN)
 
+## 📕 Latest Blog Post
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## ⚙️ Languages and Tools:
 
 <div align="center">
