@@ -33,3 +33,12 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
+          
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://ashpex.eu.org/index.xml"
