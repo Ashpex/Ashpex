@@ -44,6 +44,7 @@
 - 🔭 Working on Rasbperry Pi projects
 - ☕ Interests:  🎾 watching tennis • ♟️ playing chess • 👩‍💻 programming
 - 🐧 i use Arch btw
+- [More info](https://ashpex.eu.org/about/)
 
 ## 📬 Get in Touch
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ashwm)
