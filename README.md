@@ -49,7 +49,6 @@
 ## 📬 Get in Touch
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ashwm)
 - [![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@ashpex:kde.org)
-- [![Threema](https://img.shields.io/badge/Threema-2e2e2e?style=for-the-badge&logo=threema&logoColor=white)](https://threema.id/XBU942ZN)
 - IRC: `ashpex` on [libera](http://libera.chat/)
 
 ## 📕 Latest Blog Post
