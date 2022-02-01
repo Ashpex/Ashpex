@@ -47,6 +47,7 @@
 - [More info](https://ashpex.eu.org/about/)
 
 ## 📬 Get in Touch
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vy-bui-a78ab722b/)
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ashwm)
 - [![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@ashpex:kde.org)
 - IRC: `ashpex` on [libera](http://libera.chat/)
