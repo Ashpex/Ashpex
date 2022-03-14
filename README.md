@@ -39,7 +39,6 @@
 
 ## 💬 About me
 - 🏛️ Education: University of Science (Bachelor)
-- 👀 Name irl: Vy Bui
 - 🌱 Currently learning React Native
 - 🔭 Working on Rasbperry Pi projects
 - ☕ Interests:  🎾 watching tennis • ♟️ playing chess • 👩‍💻 programming
