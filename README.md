@@ -42,7 +42,6 @@
 - 🌱 Currently learning React Native
 - 🔭 Working on Rasbperry Pi projects
 - ☕ Interests:  🎾 watching tennis • ♟️ playing chess • 👩‍💻 programming
-- 🐧 i use Arch btw
 - [More info](https://ashpex.eu.org/about/)
 
 ## 📬 Get in Touch
@@ -88,13 +87,11 @@
 
 <div align="center">
 
-<!-- 
-[![Ashpex's github stats](https://github-readme-stats.vercel.app/api?username=ashpex&include_all_commits=true&count_private=true&theme=dark&show_icons=true)](https://github.com/Ashpex)
--->
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashpex&theme=dark&hide_border=true)](https://github.com/Ashpex)
-
+ 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ashpex/ashpex/output/github-contribution-grid-snake.svg)
 
+| <a href="https://github.com/ashpex"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashpex&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Ashpex's github stats" /></a> | <a href="https://github.com/ashpex"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashpex&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
   
 </div>
