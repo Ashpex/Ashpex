@@ -12,7 +12,7 @@
         <img src=https://img.shields.io/badge/BLOG-ashpex.eu.org-red?&style=for-the-badge alt=youtube style="margin-bottom: 5px;" height="26" />
     </a>
     <a href="https://linkedin.com/in/vybuint" target="_blank">
-        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="26" />
+        <img src=https://img.shields.io/badge/vybuint-blue?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="26" />
     </a>
     <a href="https://t.me/ashwm" target="_blank">
         <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white style="margin-bottom: 5px;" height="26"/>
