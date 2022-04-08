@@ -1,19 +1,28 @@
----
 
+---------------------------
 <div align="center">
-  <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello, I'm Ashpex </h1>
+  <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi there, I'm Ashpex </h2>
 </div>
 <p align = "center">
-  <img height="50" alt="archlinux-icon" src="https://www.logolynx.com/images/logolynx/91/914639a1180c179a71fee283128b01c5.png"/>
-</p>
-<p align="center">
-  <b>
-  <a href="https://ashpex.eu.org">Website</a> •
-  <a href="https://ashpex.eu.org/contact/">Contact</a>
-  </b>
+  <img height="40" alt="archlinux-icon" src="https://www.logolynx.com/images/logolynx/91/914639a1180c179a71fee283128b01c5.png"/>
 </p>
 
----
+<div align="center">
+    <a href="https://ashpex.eu.org/" target="_blank">
+        <img src=https://img.shields.io/badge/BLOG-ashpex.eu.org-red?&style=for-the-badge alt=youtube style="margin-bottom: 5px;" height="26" />
+    </a>
+    <a href="https://linkedin.com/in/vybuint" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="26" />
+    </a>
+    <a href="https://t.me/ashwm" target="_blank">
+        <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white style="margin-bottom: 5px;" height="26"/>
+    </a>
+      <a href="https://matrix.to/#/@ashpex:kde.org)" target="_blank">
+        <img src=https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white style="margin-bottom: 5px;" height="26"/>
+    </a>
+</div>
+
+---------------------------
 
 ## 💻 Setup
 <details>
@@ -44,13 +53,6 @@
 - ☕ Interests:  🎾 watching tennis • ♟️ playing chess • 👩‍💻 programming
 - [More info](https://ashpex.eu.org/about/)
 
-## 📬 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vybuivn)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ashwm)
-[![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@ashpex:kde.org)
-
-- IRC: `ashpex` on [libera](http://libera.chat/)
-
 ## 📕 Latest blog posts on [ashpex.eu.org](https://ashpex.eu.org)
 <!-- BLOG-POST-LIST:START -->
 - [Basic linux commands](https://ashpex.github.io/2021/08/basic-linux-commands/)
@@ -60,7 +62,7 @@
 - [Install and Configure Remotely control for Folding@home](https://ashpex.github.io/2020/04/install-and-configure-fah/)
 <!-- BLOG-POST-LIST:END -->
 
-## ⚙️ Languages:
+## ⚙️ Languages & Frameworks:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
