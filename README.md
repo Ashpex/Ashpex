@@ -51,7 +51,7 @@
 
 - IRC: `ashpex` on [libera](http://libera.chat/)
 
-## 📕 Latest Blog Post
+## 📕 Latest blog posts on [ashpex.eu.org](https://ashpex.eu.org)
 <!-- BLOG-POST-LIST:START -->
 - [Basic linux commands](https://ashpex.github.io/2021/08/basic-linux-commands/)
 - [Install Flutter on Arch Linux](https://ashpex.github.io/2021/06/how-to-install-flutter-on-arch-linux/)
