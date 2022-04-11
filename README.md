@@ -15,7 +15,7 @@
         <img src=https://img.shields.io/badge/vybuint-blue?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="26" />
     </a>
     <a href="https://t.me/ashvyr" target="_blank">
-        <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white style="margin-bottom: 5px;" height="26"/>
+        <img src=https://img.shields.io/badge/@ashvyr-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white style="margin-bottom: 5px;" height="26"/>
     </a>
       <a href="https://matrix.to/#/@ashpex:kde.org)" target="_blank">
         <img src=https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white style="margin-bottom: 5px;" height="26"/>
