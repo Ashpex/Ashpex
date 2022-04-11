@@ -9,7 +9,7 @@
 
 <div align="center">
     <a href="https://ashpex.eu.org/" target="_blank">
-        <img src=https://img.shields.io/badge/BLOG-ashpex.eu.org-red?&style=for-the-badge alt=youtube style="margin-bottom: 5px;" height="26" />
+        <img src=https://img.shields.io/badge/BLOG-ashpex.eu.org-red?&labelColor=101010&style=for-the-badge alt=youtube style="margin-bottom: 5px;" height="26" />
     </a>
     <a href="https://linkedin.com/in/vybuint" target="_blank">
         <img src=https://img.shields.io/badge/vybuint-blue?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="26" />
@@ -98,5 +98,6 @@
   
 </div>
 
----
+----
+
 <a href="https://www.buymeacoffee.com/Ashpex"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Ashpex&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
