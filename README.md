@@ -9,7 +9,10 @@
 
 <div align="center">
     <a href="https://ashpex.eu.org/" target="_blank">
-        <img src=https://img.shields.io/badge/BLOG-ashpex.eu.org-red?&labelColor=101010&style=for-the-badge alt=youtube style="margin-bottom: 5px;" height="26" />
+        <img src=https://img.shields.io/badge/BLOG-ashpex.eu.org-red?&labelColor=101010&style=for-the-badge alt=blog style="margin-bottom: 5px;" height="26" />
+    </a>
+    <a href="https://ashpex.now.sh/" target="_blank">
+        <img src=https://img.shields.io/badge/Portfolio-ashpex.now.sh-green?&labelColor=101010&style=for-the-badge alt=portfolio style="margin-bottom: 5px;" height="26" />
     </a>
     <a href="https://linkedin.com/in/vybuint" target="_blank">
         <img src=https://img.shields.io/badge/vybuint-blue?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="26" />
