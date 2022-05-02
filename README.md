@@ -1,7 +1,7 @@
 
 ---------------------------
 <div align="center">
-  <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi there, I'm Ashpex </h2>
+  <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi there, I'm Vy </h2>
 </div>
 <p align = "center">
   <img height="40" alt="archlinux-icon" src="https://www.logolynx.com/images/logolynx/91/914639a1180c179a71fee283128b01c5.png"/>
@@ -103,4 +103,5 @@
 
 ----
 
+<a href='https://ko-fi.com/D1D3BMWUC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <a href="https://www.buymeacoffee.com/Ashpex"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Ashpex&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
