@@ -58,12 +58,11 @@
 
 ## 📕 Latest blog posts on [ashpex.eu.org](https://ashpex.eu.org)
 <!-- BLOG-POST-LIST:START -->
-- [Simple Gallery: Simple yet powerful gallery app for Android](https://ashpex.eu.org/2022/04/simple-gallery-android-application/)
+- [Install Hadoop on Linux - Ultimate tutorial](https://ashpex.github.io/2022/04/install-hadoop-on-linux/)
+- [Simple Gallery: Simple yet powerful gallery app for Android](https://ashpex.github.io/2022/04/simple-gallery-android-application/)
 - [Basic linux commands](https://ashpex.github.io/2021/08/basic-linux-commands/)
 - [Install Flutter on Arch Linux](https://ashpex.github.io/2021/06/how-to-install-flutter-on-arch-linux/)
 - [Ranger manager configure](https://ashpex.github.io/2020/08/ranger-configure/)
-- [My personal setup - ThinkPad](https://ashpex.github.io/2020/06/my-personal-setup-thinkpad/)
-- [Install and Configure Remotely control for Folding@home](https://ashpex.github.io/2020/04/install-and-configure-fah/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚙️ Languages & Frameworks:
