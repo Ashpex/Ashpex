@@ -101,6 +101,4 @@
 </div>
 
 ----
-
-<a href='https://ko-fi.com/D1D3BMWUC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href="https://www.buymeacoffee.com/Ashpex"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Ashpex&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://ashpex.eu.org/donate"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23483699?style=for-the-badge&labelColor=%23252525&logo=Buy-Me-A-Coffee&logoColor=white" /></a>
