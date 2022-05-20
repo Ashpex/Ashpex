@@ -93,8 +93,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashpex&theme=react&hide_border=false)](https://github.com/Ashpex)
  
+<!--
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ashpex/ashpex/output/github-contribution-grid-snake.svg)
-
+-->
 | <a href="https://github.com/ashpex"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashpex&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react" alt="Ashpex's github stats" /></a> | <a href="https://github.com/ashpex"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashpex&layout=compact&hide_border=true&hide=css,html&langs_count=10&theme=react" /></a> |
 | ------------- | ------------- |
   
