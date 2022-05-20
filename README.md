@@ -3,9 +3,12 @@
 <div align="center">
   <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi there, I'm Vy </h2>
 </div>
+
+<!--
 <p align = "center">
   <img height="40" alt="archlinux-icon" src="https://www.logolynx.com/images/logolynx/91/914639a1180c179a71fee283128b01c5.png"/>
 </p>
+-->
 
 <div align="center">
     <a href="https://ashpex.eu.org/" target="_blank">
@@ -51,7 +54,7 @@
 
 ## 💬 About me
 - 🏛️ Education: University of Science (Bachelor)
-- 🌱 Currently learning React Native
+- 🌱 Currently learning Flutter
 - 🔭 Working on Rasbperry Pi projects
 - ☕ Interests:  🎾 watching tennis • ♟️ playing chess • 👩‍💻 programming
 - [More info](https://ashpex.eu.org/about/)
