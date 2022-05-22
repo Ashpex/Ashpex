@@ -94,8 +94,10 @@
 
 <div align="center">
 
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashpex&theme=react&hide_border=false)](https://github.com/Ashpex)
- 
+ -->
+  
 <!--
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ashpex/ashpex/output/github-contribution-grid-snake.svg)
 -->
