@@ -22,15 +22,11 @@
     </a>
     <a href="https://t.me/ashvyr" target="_blank">
         <img src=https://img.shields.io/badge/@ashvyr-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white style="margin-bottom: 5px;" height="26"/>
-    </a>
-      <a href="https://matrix.to/#/@ashpex:kde.org)" target="_blank">
-        <img src=https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white style="margin-bottom: 5px;" height="26"/>
-    </a>
 </div>
 
 ---------------------------
 
-## 💻 Setup
+### 💻 Setup
 <details>
   <summary>Click to view my setup</summary>
   
@@ -52,14 +48,14 @@
 </details>
 
 
-## 💬 About me
+### 💬 About me
 - 🏛️ Education: University of Science (Bachelor)
 - 🌱 Currently learning Go and ReactJS TypeScript
 - 🔭 Working on Rasbperry Pi projects
 - ☕ Interests:  watching tennis • playing chess • programming
 - [More info](https://ashpex.eu.org/about/)
 
-## 📕 Latest blog posts on [ashpex.eu.org](https://ashpex.eu.org)
+### 📕 Latest blog posts on [ashpex.eu.org](https://ashpex.eu.org)
 <!-- BLOG-POST-LIST:START -->
 - [Install Hadoop on Linux - Ultimate tutorial](https://ashpex.github.io/2022/04/install-hadoop-on-linux/)
 - [Simple Gallery: Simple yet powerful gallery app for Android](https://ashpex.github.io/2022/04/simple-gallery-android-application/)
@@ -68,7 +64,7 @@
 - [Ranger manager configure](https://ashpex.github.io/2020/08/ranger-configure/)
 <!-- BLOG-POST-LIST:END -->
 
-## ⚙️ Languages & Frameworks:
+### ⚙️ Languages & Frameworks:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -79,17 +75,16 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## ⚙️ OS & Tools:
+### ⚙️ OS & Tools:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-## ⚡ GitHub's Stats
+### ⚡ GitHub's Stats
 
 <div align="center">
 
