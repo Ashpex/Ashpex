@@ -87,8 +87,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) -->
 
+<!--
 ### ⚡ GitHub's Stats
-
 <div align="center">
 
 <!--
@@ -98,9 +98,11 @@
 <!--
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ashpex/ashpex/output/github-contribution-grid-snake.svg)
 -->
-| <a href="https://github.com/ashpex"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashpex&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react" alt="Ashpex's github stats" /></a> | <a href="https://github.com/ashpex"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashpex&layout=compact&hide_border=true&hide=css,html,handlebars&langs_count=10&theme=react" /></a> |
-| ------------- | ------------- |
-  
+
+<!--
+<a href="https://github.com/ashpex"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashpex&layout=compact&hide_border=true&hide=css,html,handlebars&langs_count=10&theme=react" /></a>
+-->
+
 </div>
 
 ----
