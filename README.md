@@ -83,33 +83,7 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-<!-- 
-### ⚙️ OS & Tools:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) -->
-
-<!--
-### ⚡ GitHub's Stats
-<div align="center">
-
-<!--
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashpex&theme=react&hide_border=false)](https://github.com/Ashpex)
- -->
-  
-<!--
-![github contribution grid snake animation](https://raw.githubusercontent.com/ashpex/ashpex/output/github-contribution-grid-snake.svg)
--->
-
-<!--
-<a href="https://github.com/ashpex"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashpex&layout=compact&hide_border=true&hide=css,html,handlebars&langs_count=10&theme=react" /></a>
--->
-
-</div>
-
-----
-<a href="https://ashpex.eu.org/donate"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23483699?style=for-the-badge&labelColor=%23252525&logo=Buy-Me-A-Coffee&logoColor=white" /></a>
