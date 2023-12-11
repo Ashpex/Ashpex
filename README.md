@@ -6,7 +6,7 @@
   <img height="40" alt="archlinux-icon" src="https://www.logolynx.com/images/logolynx/91/914639a1180c179a71fee283128b01c5.png"/>
 </p>
 -->
-<p align="left"><strong><samp>」</samp></strong></p>
+<p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
       <b>
