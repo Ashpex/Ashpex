@@ -1,15 +1,28 @@
 
 ---------------------------
-<div align="center">
-  <h2>👋🏻 Hi there, I'm Vy </h2>
-</div>
 
 <!--
 <p align = "center">
   <img height="40" alt="archlinux-icon" src="https://www.logolynx.com/images/logolynx/91/914639a1180c179a71fee283128b01c5.png"/>
 </p>
 -->
-
+<p align="left"><strong><samp>」</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello There
+      <br>
+        I'm Vy;
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=Part+time+developer,+full+time+idiot.">
+      <br>
+      <b>
+         ~ Ashpex ~
+      </b>    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
+<br>
 <div align="center">
     <a href="https://ashpex.eu.org/" target="_blank">
         <img src=https://img.shields.io/badge/BLOG-ashpex.eu.org-red?&labelColor=101010&style=for-the-badge alt=blog style="margin-bottom: 5px;" height="26" />
