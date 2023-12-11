@@ -41,7 +41,7 @@
 
 ### 💻 Setup
 <details>
-  <summary>Click to view my setup</summary>
+  <summary>View more</summary>
   
 <div align="center">
 <h3> ~/ </h3>
@@ -60,13 +60,6 @@
 </div>
 </details>
 
-
-### 💬 About me
-- Education: University of Science (Bachelor)
-- Currently learning Go and ReactJS TypeScript
-- Working on Rasbperry Pi projects
-- Interests:  watching tennis • playing chess • programming
-- [More info](https://ashpex.eu.org/about/)
 
 ### 📕 Latest blog posts on [ashpex.eu.org](https://ashpex.eu.org)
 <!-- BLOG-POST-LIST:START -->
