@@ -63,11 +63,11 @@
 
 ### 📕 Latest blog posts on [ashpex.eu.org](https://ashpex.eu.org)
 <!-- BLOG-POST-LIST:START -->
-- [Install Hadoop on Linux - Ultimate tutorial](http://localhost:1313/2022/04/install-hadoop-on-linux/)
-- [Simple Gallery: Simple yet powerful gallery app for Android](http://localhost:1313/2022/04/simple-gallery-android-application/)
-- [Basic linux commands](http://localhost:1313/2021/08/basic-linux-commands/)
-- [Install Flutter on Arch Linux](http://localhost:1313/2021/06/how-to-install-flutter-on-arch-linux/)
-- [Ranger manager configure](http://localhost:1313/2020/08/ranger-configure/)
+- [MySQL Point in Time Recovery](https://ashpex.github.io/2024/06/mysql-point-in-time-recovery/)
+- [Install Hadoop on Linux - Ultimate tutorial](https://ashpex.github.io/2022/04/install-hadoop-on-linux/)
+- [Simple Gallery: Simple yet powerful gallery app for Android](https://ashpex.github.io/2022/04/simple-gallery-android-application/)
+- [Basic linux commands](https://ashpex.github.io/2021/08/basic-linux-commands/)
+- [Install Flutter on Arch Linux](https://ashpex.github.io/2021/06/how-to-install-flutter-on-arch-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚙️ Languages & Frameworks:
