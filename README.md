@@ -27,7 +27,7 @@
     <a href="https://ashpex.net/" target="_blank">
         <img src=https://img.shields.io/badge/BLOG-ashpex.net-red?&labelColor=101010&style=for-the-badge alt=blog style="margin-bottom: 5px;" height="26" />
     </a>
-    <a href="https://me.ashpex.net/" target="_blank">
+    <a href="https://me.ashpex.net/resume" target="_blank">
         <img src=https://img.shields.io/badge/Resume-me.ashpex.net-%234ea94b?&labelColor=101010&style=for-the-badge alt=portfolio style="margin-bottom: 5px;" height="26" />
     </a>
     <a href="https://linkedin.com/in/vybuint" target="_blank">
