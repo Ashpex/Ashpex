@@ -61,7 +61,7 @@
 </details>
 
 
-### 📕 Latest blog posts on [ashpex.eu.org](https://ashpex.eu.org)
+### 📕 Latest blog posts on [ashpex.net](https://ashpex.net)
 <!-- BLOG-POST-LIST:START -->
 - [MySQL Point in Time Recovery](https://ashpex.github.io/2024/06/mysql-point-in-time-recovery/)
 - [Install Hadoop on Linux - Ultimate tutorial](https://ashpex.github.io/2022/04/install-hadoop-on-linux/)
