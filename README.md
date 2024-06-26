@@ -63,11 +63,11 @@
 
 ### 📕 Latest blog posts on [ashpex.net](https://ashpex.net)
 <!-- BLOG-POST-LIST:START -->
-- [Real-time data synchronization and CDC with Alibaba Canal](https://ashpex.net:1313/2024/06/real-time-data-synchronization-and-cdc-with-alibaba-canal/)
-- [MySQL Point in Time Recovery](https://ashpex.net:1313/2024/06/mysql-point-in-time-recovery/)
-- [Install Hadoop on Linux - Ultimate tutorial](https://ashpex.net:1313/2022/04/install-hadoop-on-linux/)
-- [Simple Gallery: Simple yet powerful gallery app for Android](https://ashpex.net:1313/2022/04/simple-gallery-android-application/)
-- [Basic linux commands](https://ashpex.net:1313/2021/08/basic-linux-commands/)
+- [Real-time data synchronization and CDC with Alibaba Canal](https://ashpex.github.io/2024/06/real-time-data-synchronization-and-cdc-with-alibaba-canal/)
+- [MySQL Point in Time Recovery](https://ashpex.github.io/2024/06/mysql-point-in-time-recovery/)
+- [Install Hadoop on Linux - Ultimate tutorial](https://ashpex.github.io/2022/04/install-hadoop-on-linux/)
+- [Simple Gallery: Simple yet powerful gallery app for Android](https://ashpex.github.io/2022/04/simple-gallery-android-application/)
+- [Basic linux commands](https://ashpex.github.io/2021/08/basic-linux-commands/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚙️ Languages & Frameworks:
