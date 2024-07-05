@@ -63,11 +63,11 @@
 
 ### 📕 Latest blog posts on [ashpex.net](https://ashpex.net)
 <!-- BLOG-POST-LIST:START -->
+- [My Journey to Self-hosting: Immich and Raspberry Pi for Personal Photos and Videos Storage](https://ashpex.net/2024/07/my-journey-to-self-hosting-immich-and-raspberry-pi-for-personal-photos-and-videos-storage/)
 - [Real-time data synchronization and CDC with Alibaba Canal](https://ashpex.net/2024/06/real-time-data-synchronization-and-cdc-with-alibaba-canal/)
 - [MySQL Point in Time Recovery](https://ashpex.net/2024/06/mysql-point-in-time-recovery/)
 - [Install Hadoop on Linux - Ultimate tutorial](https://ashpex.net/2022/04/install-hadoop-on-linux/)
 - [Simple Gallery: Simple yet powerful gallery app for Android](https://ashpex.net/2022/04/simple-gallery-android-application/)
-- [Basic linux commands](https://ashpex.net/2021/08/basic-linux-commands/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚙️ Languages & Frameworks:
