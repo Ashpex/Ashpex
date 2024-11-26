@@ -52,7 +52,7 @@
 </div>
 
 <div align="center">
-<img src="https://ashpex.eu.org/images/2019-12_scrot.png" alt="setup" width="550"/>
+<img src="https://ashpex.net/images/2019-12_scrot.png" alt="setup" width="550"/>
 </div>
 
 <div align="center">
