@@ -40,20 +40,6 @@
 - Other Blog (random things): [https://me.ashpex.net](https://me.ashpex.net)
 - Tools: [https://hub.ashpex.net](https://hub.ashpex.net)
 
-### 💻 Setup
-<details>
-  <summary>View more</summary>
-  
-<div align="center">
-<h3> ~/ </h3>
-</div>
-
-<div align="center">
-<h4> You are, quite obviously, home. </h4>
-</div>
-</details>
-
-
 ### 📕 Latest blog posts on [ashpex.net](https://ashpex.net) 
 <!-- BLOG-POST-LIST:START -->
 - [Building my own DIY NAS](https://ashpex.net/2024/10/building-my-own-diy-nas/)
