@@ -51,14 +51,6 @@
 <div align="center">
 <h4> You are, quite obviously, home. </h4>
 </div>
-
-<div align="center">
-<img src="https://ashpex.net/images/2019-12_scrot.png" alt="setup" width="550"/>
-</div>
-
-<div align="center">
-  <b>Distribution:</b> Arch (GNU/Linux)/ <b>Font:</b> Iosevka Term / <b>Hosted by:</b> Glorious ThinkPad
-</div>
 </details>
 
 
