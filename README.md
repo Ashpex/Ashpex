@@ -62,7 +62,7 @@
 </details>
 
 
-### 📕 Latest blog posts on [ashpex.net](https://ashpex.net)
+### Latest blog posts on [ashpex.net](https://ashpex.net) 📕 
 <!-- BLOG-POST-LIST:START -->
 - [Building my own DIY NAS](https://ashpex.net/2024/10/building-my-own-diy-nas/)
 - [My Journey to Self-hosting: Immich and Raspberry Pi for Personal Photos and Videos Storage](https://ashpex.net/2024/07/my-journey-to-self-hosting-immich-and-raspberry-pi-for-personal-photos-and-videos-storage/)
