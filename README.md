@@ -34,6 +34,12 @@
 
 ---------------------------
 
+### Find me around the web 🌎
+
+- Personal Blog - ashpex.net
+- Other blog (random things) - me.ashpex.net
+- Tools - hub.ashpex.net
+
 ### 💻 Setup
 <details>
   <summary>View more</summary>
