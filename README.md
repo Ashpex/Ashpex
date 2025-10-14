@@ -34,8 +34,7 @@
 ### 🌎 Find me around the web 
 
 - Personal Blog: [https://ashpex.net](https://ashpex.net)
-- Other Blog (random things): [https://me.ashpex.net](https://me.ashpex.net)
-- Tools: [https://hub.ashpex.net](https://hub.ashpex.net)
+- Homelab: [https://hub.ashpex.net](https://hub.ashpex.net)
 
 ### 📕 Latest blog posts on [ashpex.net](https://ashpex.net) 
 <!-- BLOG-POST-LIST:START -->
