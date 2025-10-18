@@ -45,7 +45,7 @@
 - [Install Hadoop on Linux - Ultimate tutorial](https://ashpex.net/2022/04/install-hadoop-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
-### ⚙️ Languages & Frameworks:
+### ⚙️ Stack:
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
